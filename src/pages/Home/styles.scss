@@ -1,0 +1,30 @@
+.search-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;  
+}
+
+.search-result {
+  margin: 20px;
+}
+
+.result-count {
+  margin: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.pagenation-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-error {
+  padding-top: 5px;
+  font-size: 13px;
+  color: red;
+}
